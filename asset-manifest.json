@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SurveyJS/static/css/main.43eb501e.chunk.css",
+    "main.js": "/SurveyJS/static/js/main.7a07f05f.chunk.js",
+    "main.js.map": "/SurveyJS/static/js/main.7a07f05f.chunk.js.map",
+    "runtime-main.js": "/SurveyJS/static/js/runtime-main.5d177af3.js",
+    "runtime-main.js.map": "/SurveyJS/static/js/runtime-main.5d177af3.js.map",
+    "static/css/2.ab452c43.chunk.css": "/SurveyJS/static/css/2.ab452c43.chunk.css",
+    "static/js/2.41c34b62.chunk.js": "/SurveyJS/static/js/2.41c34b62.chunk.js",
+    "static/js/2.41c34b62.chunk.js.map": "/SurveyJS/static/js/2.41c34b62.chunk.js.map",
+    "static/js/3.5545f90c.chunk.js": "/SurveyJS/static/js/3.5545f90c.chunk.js",
+    "static/js/3.5545f90c.chunk.js.map": "/SurveyJS/static/js/3.5545f90c.chunk.js.map",
+    "index.html": "/SurveyJS/index.html",
+    "static/css/2.ab452c43.chunk.css.map": "/SurveyJS/static/css/2.ab452c43.chunk.css.map",
+    "static/css/main.43eb501e.chunk.css.map": "/SurveyJS/static/css/main.43eb501e.chunk.css.map",
+    "static/js/2.41c34b62.chunk.js.LICENSE.txt": "/SurveyJS/static/js/2.41c34b62.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/SurveyJS/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d177af3.js",
+    "static/css/2.ab452c43.chunk.css",
+    "static/js/2.41c34b62.chunk.js",
+    "static/css/main.43eb501e.chunk.css",
+    "static/js/main.7a07f05f.chunk.js"
+  ]
+}
